@@ -136,6 +136,8 @@ ul {
   width: 100%;
   background-position: center;
   background-size: cover;
+  /* This line creates the window effect: */
+  background-attachment: fixed; 
   overflow: hidden;
 }
 
