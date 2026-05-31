@@ -16,7 +16,11 @@ A visually-driven Minecraft experience featuring:
 * Biome showcase gallery using CSS Grid
 * Parallax-style backgrounds
 * Minecraft-inspired call-to-action section
- 
+
+
+ ![App Screenshot](static/screenshot.jpg)
+
+ ![App Screenshot](static/screen.png)
  
 ## ✨ Features
 
