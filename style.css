@@ -46,8 +46,8 @@ body {
   text-align: center;
   padding: 2rem 1.5rem;
 }
-.hero-subtitle,
-.hero-title {
+.hero .hero-subtitle,
+.hero .hero-title {
   color: #fff;
   text-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
   opacity: 0;
@@ -62,7 +62,7 @@ body {
   line-height: 1.4;
   animation-delay: 0.3s;
 }
-.hero-title {
+.hero .hero-title {
   margin: 0;
   font-family: "Cinzel", "Georgia", serif;
   font-size: clamp(4rem, 10vw, 8rem);
@@ -81,6 +81,33 @@ body {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+.section-2-text {
+  opacity: 1;
+  transform: none;
+}
+
+.section-2-text .hero-title {
+  color: transparent;
+  background: linear-gradient(180deg, #ffffff 0%, #c8e1ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+  font-family: "Cinzel", "Georgia", serif;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+}
+
+.section-2-text .hero-title.jgg {
+  letter-spacing: 0.75em;
+  font-size: clamp(3.8rem, 8vw, 5.5rem);
+  margin-bottom: 0.2rem;
+}
+
+.section-2-text .hero-title.jhh {
+  letter-spacing: 0.35em;
+  font-size: clamp(4.8rem, 11vw, 7.5rem);
 }
 
 nav {
@@ -204,3 +231,78 @@ ul {
   background-position: center;
   background-size: cover;
 }
+
+.gallery-2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* From Uiverse.io by cssbuttons-io */ 
+button {
+  font-size: 20px;
+  background-color: #008542;
+  color: #fff;
+  text-shadow: 0 2px 0 rgb(0 0 0 / 25%);
+  position: relative;
+  border: 0;
+  z-index: 1;
+  user-select: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  white-space: unset;
+  padding: 0.8rem 1.5rem;
+  text-decoration: none;
+  font-weight: 900;
+  transition: all 0.7s cubic-bezier(0, 0.8, 0.26, 0.99);
+  margin-top: 600px;
+}
+
+button:before {
+  position: absolute;
+  pointer-events: none;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  content: "";
+  transition: 0.7s cubic-bezier(0, 0.8, 0.26, 0.99);
+  z-index: -1;
+  background-color: #008542 !important;
+  box-shadow: 0 -4px rgb(21 108 0 / 50%) inset,
+    0 4px rgb(100 253 31 / 99%) inset, -4px 0 rgb(100 253 31 / 50%) inset,
+    4px 0 rgb(21 108 0 / 50%) inset;
+}
+
+button:after {
+  position: absolute;
+  pointer-events: none;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  content: "";
+  box-shadow: 0 4px 0 0 rgb(0 0 0 / 15%);
+  transition: 0.7s cubic-bezier(0, 0.8, 0.26, 0.99);
+}
+
+button:hover:before {
+  box-shadow: 0 -4px rgb(0 0 0 / 50%) inset, 0 4px rgb(255 255 255 / 20%) inset,
+    -4px 0 rgb(255 255 255 / 20%) inset, 4px 0 rgb(0 0 0 / 50%) inset;
+}
+
+button:hover:after {
+  box-shadow: 0 4px 0 0 rgb(0 0 0 / 15%);
+}
+
+button:active {
+  transform: translateY(4px);
+}
+
+button:active:after {
+  box-shadow: 0 0px 0 0 rgb(0 0 0 / 15%);
+}
+
