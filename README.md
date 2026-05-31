@@ -84,22 +84,6 @@ The project includes:
 * Parallax-style scrolling sections
 * Enhanced depth through shadows and overlays
 
-## 📂 Project Structure
-
-minecraft-fanpage/
-│
-├── index.html
-├── style.css
-│
-└── static/
-    ├── minecraft-hero.mp4
-    ├── vista.png
-    ├── vista2.jpg
-    ├── Minecraft-Birch-Forest.png
-    ├── Minecraft-Stony-Peaks.png
-    ├── Minecraft-Jungle.png
-    └── other biome assets...
-
 ## 🚀 Future Improvements
 
 * Mobile responsiveness
