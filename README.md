@@ -1,4 +1,4 @@
-#  ⛏️🪨Minecraft Fanpage (May 30th - 31st 2026)
+#  ⛏️🪨 Minecraft Fanpage (May 30th - 31st 2026)
 
 A cinematic Minecraft-inspired website built with HTML5 and CSS3, featuring immersive visuals, a video hero section, custom typography, and a CSS Grid biome gallery designed to capture the endless creativity of Minecraft. Great banger to end the month.
 
