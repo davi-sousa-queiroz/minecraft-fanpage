@@ -20,25 +20,25 @@ A visually-driven Minecraft experience featuring:
  
 ## ✨ Features
 
-# 🎥 Hero Section
+### 🎥 Hero Section
 * Fullscreen autoplay video background
 * Smooth fade-in animations
 * Layered content using z-index
 * Cinematic trailer-inspired design
 
-# 🌳 Biome Gallery
+### 🌳 Biome Gallery
 * Built entirely with CSS Grid
 * Custom image positioning
 * Asymmetrical layout for visual interest
 * Multiple biome showcases
 
-# 🌄 Endless Possibilities Section
+### 🌄 Endless Possibilities Section
 * Large promotional Minecraft landscape
 * Gradient typography effects
 * Minecraft-style animated button
 * Immersive game-advertisement aesthetic
 
-# 🎨 Visual Effects
+### 🎨 Visual Effects
 * Smooth transitions
 * Hover effects
 * Text shadows
