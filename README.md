@@ -18,7 +18,7 @@ A visually-driven Minecraft experience featuring:
 * Minecraft-inspired call-to-action section
 
 
- ![App Screenshot](static/screenshot.jpg)
+ ![App Screenshot](static/sreenshot.jpg)
 
  ![App Screenshot](static/screen.jpg)
  
