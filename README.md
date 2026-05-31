@@ -1,14 +1,12 @@
 # ⛏️ Minecraft Fanpage (May 30th - 31st 2026)
 
 A cinematic Minecraft-inspired website built with HTML5 and CSS3, featuring immersive visuals, a video hero section, custom typography, and a CSS Grid biome gallery designed to capture the endless creativity of Minecraft. Great banger to end the month.
- 
-⸻
+
  
 ## 🌐 Live Demo
 
 Play it here: https://davi-sousa-queiroz.github.io/minecraft-fanpage/
  
-⸻
  
 ## 📸 Preview
 
@@ -19,7 +17,6 @@ A visually-driven Minecraft experience featuring:
 * Parallax-style backgrounds
 * Minecraft-inspired call-to-action section
  
-⸻
  
 ## ✨ Features
 
@@ -49,7 +46,6 @@ A visually-driven Minecraft experience featuring:
 * Fixed background sections
 * Responsive typography using clamp()
  
-⸻
  
 ## 🛠️ Technologies Used
 
@@ -62,7 +58,6 @@ A visually-driven Minecraft experience featuring:
 * GitHub
 * GitHub Pages
  
-⸻
  
 ## 📚 What I Learned
 
@@ -76,8 +71,7 @@ During development, I practiced:
 * Creating visually appealing hero sections
 * Improving website aesthetics through typography and spacing
 * Deploying projects with GitHub Pages
- 
-⸻
+
  
 ## 🎬 Animations & Effects
 
