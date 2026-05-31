@@ -88,3 +88,44 @@ body {
     transform: translateY(0);
   }
 }
+
+nav {
+  z-index: 3;
+  margin-bottom: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 10vh;
+  gap: 800px;
+  animation: fadeDown 2s ease-out forwards;
+  position: fixed;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 70px;
+}
+
+.links {
+  list-style: none;
+  font-family: system-ui, sans-serif;
+  font-size: larger;
+  font-weight: 500;
+  color: rgba(221, 221, 221, 0.805);
+}
+
+.logo {
+  font-size: x-large;
+  font-weight: 650;
+  color: rgba(231, 231, 231, 0.662);
+}
+
+.logo:hover {
+  color: #fff;
+}
+
+.a:hover, .b:hover, .c:hover, .d:hover {
+  color: #ffffff;
+}
