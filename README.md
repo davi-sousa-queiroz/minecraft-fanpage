@@ -113,7 +113,7 @@ I also remember building this after finishing my Bocchi The Rock project and thi
 
 Yeah… sure.
 
-Looking back, I hope this project reminds me that progress doesn’t happen overnight. A few months ago I was learning basic Flexbox. Now I’m building websites with video backgrounds, CSS Grid layouts, animations, Git, GitHub Pages deployments, and enough aesthetic obsession to spend 30 minutes deciding whether a heading should have 0.30em or 0.35em letter spacing.
+Looking back, I hope this project reminds me that progress doesn’t happen overnight. A months ago I was learning to center a div. Now I’m building websites with video backgrounds, CSS Grid layouts, animations, Git, GitHub Pages deployments, and enough aesthetic obsession to spend 30 minutes deciding whether a heading should have 0.30em or 0.35em letter spacing.
 
 I also hope Future Me remembers that this website was built during a time when I constantly worried about AI replacing developers.
 
