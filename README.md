@@ -20,7 +20,7 @@ A visually-driven Minecraft experience featuring:
 
  ![App Screenshot](static/screenshot.jpg)
 
- ![App Screenshot](static/screen.png)
+ ![App Screenshot](static/screen.jpg)
  
 ## ✨ Features
 
